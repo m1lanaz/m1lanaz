@@ -24,5 +24,6 @@ Passionate beginner/intermediate developer exploring the realms of JavaScript, R
 
 ---
 
+### 📈 Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m1lanaz&theme=merko&hide_border=false)<br/>
 
