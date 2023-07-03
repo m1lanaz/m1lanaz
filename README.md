@@ -4,7 +4,7 @@
 
 Passionate beginner/intermediate developer exploring the realms of JavaScript, React, Node.js, HTML, and CSS. Embarking on a coding journey, tinkering with little projects along the way. 
 
-[![button] https://github.com/m1lanaz/m1lanaz/assets/58622630/60e9e237-f2a4-4e5f-ab00-876a603f44c1](https://codepen.io/Simplai-Coded)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milana-zaborovska-81b568214) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Simplai-Coded) 
 
 ---
 
@@ -20,3 +20,8 @@ Passionate beginner/intermediate developer exploring the realms of JavaScript, R
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+------
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=m1lanaz&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1lanaz&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
