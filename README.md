@@ -21,7 +21,7 @@ Passionate beginner/intermediate developer exploring the realms of JavaScript, R
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-------
+---
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m1lanaz&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1lanaz&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
