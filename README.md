@@ -2,7 +2,7 @@
 
 **`Aspiring Fullstack Developer`**
 
-Passionate beginner/intermediate developer exploring the realms of JavaScript, React, Node.js, HTML, and CSS. Embarking on a coding journey, tinkering with little projects along the way. 
+Passionate beginner/intermediate developer exploring the realms of React, Node.js, and Express.js. Embarking on a coding journey, tinkering with little projects along the way. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milana-zaborovska-81b568214) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Simplai-Coded) 
 
